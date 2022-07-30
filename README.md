@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohamadMoein
-- 👀 I’m interested in coding, sports, music, movies, almost everything :) 
-- 🌱 I’m currently learning creative coding in browsers (canvas & animations)
+- 🌱 I’m interested in coding, sports, music, movies ...
 - 📫 You can reach me at mohamadmoein.h@gmail.com
 
 <!---
